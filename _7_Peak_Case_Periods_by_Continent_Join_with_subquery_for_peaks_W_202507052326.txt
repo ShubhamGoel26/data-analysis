@@ -1,0 +1,512 @@
+|continent|location                     |peak_date |peak_cases|
+|---------|-----------------------------|----------|----------|
+|         |Asia                         |2024-08-05|          |
+|         |Europe                       |2024-08-05|          |
+|         |European Union (27)          |2020-12-04|          |
+|         |High-income countries        |2020-12-02|          |
+|         |Low-income countries         |2021-02-15|          |
+|         |Lower-middle-income countries|2021-01-12|          |
+|         |Oceania                      |2024-08-05|          |
+|         |Upper-middle-income countries|2020-12-15|          |
+|         |World                        |2024-08-05|          |
+|         |Asia                         |2024-08-05|          |
+|         |Europe                       |2024-08-05|          |
+|         |European Union (27)          |2020-12-04|          |
+|         |High-income countries        |2020-12-02|          |
+|         |Low-income countries         |2021-02-15|          |
+|         |Lower-middle-income countries|2021-01-12|          |
+|         |Oceania                      |2024-08-05|          |
+|         |Upper-middle-income countries|2020-12-15|          |
+|         |World                        |2024-08-05|          |
+|         |North America                |2022-01-16|6,582,043 |
+|         |North America                |2022-01-16|6,582,043 |
+|         |South America                |2022-01-30|2,570,599 |
+|         |South America                |2022-01-30|2,570,599 |
+|         |Africa                       |2022-01-09|316,014   |
+|         |Africa                       |2022-01-09|316,014   |
+|Africa   |Burundi                      |2023-07-16|          |
+|Africa   |Equatorial Guinea            |2022-03-20|          |
+|Africa   |Liberia                      |2023-08-13|          |
+|Africa   |Malawi                       |2022-11-06|          |
+|Africa   |Mauritania                   |2023-02-12|          |
+|Africa   |Mayotte                      |2021-05-23|          |
+|Africa   |Western Sahara               |2022-04-20|          |
+|Africa   |Zimbabwe                     |2023-07-30|          |
+|Africa   |Burundi                      |2023-07-16|          |
+|Africa   |Equatorial Guinea            |2022-03-20|          |
+|Africa   |Liberia                      |2023-08-13|          |
+|Africa   |Malawi                       |2022-11-06|          |
+|Africa   |Mauritania                   |2023-02-12|          |
+|Africa   |Mayotte                      |2021-05-23|          |
+|Africa   |Western Sahara               |2022-04-20|          |
+|Africa   |Zimbabwe                     |2023-07-30|          |
+|Africa   |South Africa                 |2021-12-19|162,987   |
+|Africa   |South Africa                 |2021-12-19|162,987   |
+|Africa   |Tunisia                      |2022-01-23|66,015    |
+|Africa   |Tunisia                      |2022-01-23|66,015    |
+|Africa   |Morocco                      |2021-08-15|64,784    |
+|Africa   |Morocco                      |2021-08-15|64,784    |
+|Africa   |Reunion                      |2022-01-30|46,914    |
+|Africa   |Reunion                      |2022-01-30|46,914    |
+|Africa   |Botswana                     |2022-02-27|41,830    |
+|Africa   |Botswana                     |2022-02-27|41,830    |
+|Africa   |Ethiopia                     |2022-01-02|28,590    |
+|Africa   |Ethiopia                     |2022-01-02|28,590    |
+|Africa   |Mozambique                   |2022-01-02|26,860    |
+|Africa   |Mozambique                   |2022-01-02|26,860    |
+|Africa   |Zambia                       |2022-01-02|26,367    |
+|Africa   |Zambia                       |2022-01-02|26,367    |
+|Africa   |Libya                        |2022-02-06|26,333    |
+|Africa   |Libya                        |2022-02-06|26,333    |
+|Africa   |Uganda                       |2021-08-22|21,653    |
+|Africa   |Uganda                       |2021-08-22|21,653    |
+|Africa   |Tanzania                     |2021-08-08|20,607    |
+|Africa   |Tanzania                     |2021-08-08|20,607    |
+|Africa   |Mauritius                    |2022-02-20|19,687    |
+|Africa   |Mauritius                    |2022-02-20|19,687    |
+|Africa   |Kenya                        |2021-12-26|19,023    |
+|Africa   |Kenya                        |2021-12-26|19,023    |
+|Africa   |Egypt                        |2022-02-06|15,872    |
+|Africa   |Egypt                        |2022-02-06|15,872    |
+|Africa   |Algeria                      |2022-01-30|14,774    |
+|Africa   |Algeria                      |2022-01-30|14,774    |
+|Africa   |Nigeria                      |2021-12-26|12,531    |
+|Africa   |Nigeria                      |2021-12-26|12,531    |
+|Africa   |Namibia                      |2021-06-27|11,967    |
+|Africa   |Namibia                      |2021-06-27|11,967    |
+|Africa   |Angola                       |2022-01-02|11,256    |
+|Africa   |Angola                       |2022-01-02|11,256    |
+|Africa   |Rwanda                       |2021-07-25|10,060    |
+|Africa   |Rwanda                       |2021-07-25|10,060    |
+|Africa   |Cameroon                     |2021-03-21|8,681     |
+|Africa   |Cameroon                     |2021-03-21|8,681     |
+|Africa   |Cote d'Ivoire                |2022-01-02|7,968     |
+|Africa   |Cote d'Ivoire                |2022-01-02|7,968     |
+|Africa   |Eswatini                     |2021-12-19|7,540     |
+|Africa   |Eswatini                     |2021-12-19|7,540     |
+|Africa   |Cape Verde                   |2022-01-09|7,387     |
+|Africa   |Cape Verde                   |2022-01-09|7,387     |
+|Africa   |Ghana                        |2021-12-26|7,261     |
+|Africa   |Ghana                        |2021-12-26|7,261     |
+|Africa   |Democratic Republic of Congo |2021-12-19|6,900     |
+|Africa   |Democratic Republic of Congo |2021-12-19|6,900     |
+|Africa   |Senegal                      |2021-07-25|6,199     |
+|Africa   |Senegal                      |2021-07-25|6,199     |
+|Africa   |Benin                        |2021-09-05|4,454     |
+|Africa   |Benin                        |2021-09-05|4,454     |
+|Africa   |Madagascar                   |2021-04-18|4,142     |
+|Africa   |Madagascar                   |2021-04-18|4,142     |
+|Africa   |Seychelles                   |2022-01-16|3,936     |
+|Africa   |Seychelles                   |2022-01-16|3,936     |
+|Africa   |Mali                         |2022-01-09|3,819     |
+|Africa   |Mali                         |2022-01-09|3,819     |
+|Africa   |Sudan                        |2022-01-16|3,724     |
+|Africa   |Sudan                        |2022-01-16|3,724     |
+|Africa   |Togo                         |2022-01-02|3,173     |
+|Africa   |Togo                         |2022-01-02|3,173     |
+|Africa   |Gabon                        |2022-01-02|2,928     |
+|Africa   |Gabon                        |2022-01-02|2,928     |
+|Africa   |Lesotho                      |2021-12-26|2,654     |
+|Africa   |Lesotho                      |2021-12-26|2,654     |
+|Africa   |Burkina Faso                 |2022-01-09|2,004     |
+|Africa   |Burkina Faso                 |2022-01-09|2,004     |
+|Africa   |Guinea                       |2022-01-09|1,806     |
+|Africa   |Guinea                       |2022-01-09|1,806     |
+|Africa   |South Sudan                  |2021-02-28|1,353     |
+|Africa   |South Sudan                  |2021-02-28|1,353     |
+|Africa   |Saint Helena                 |2022-09-25|1,298     |
+|Africa   |Saint Helena                 |2022-09-25|1,298     |
+|Africa   |Djibouti                     |2021-04-04|1,260     |
+|Africa   |Djibouti                     |2021-04-04|1,260     |
+|Africa   |Comoros                      |2022-01-02|1,232     |
+|Africa   |Comoros                      |2022-01-02|1,232     |
+|Africa   |Central African Republic     |2021-04-18|1,227     |
+|Africa   |Central African Republic     |2021-04-18|1,227     |
+|Africa   |Congo                        |2022-01-02|1,188     |
+|Africa   |Congo                        |2022-01-02|1,188     |
+|Africa   |Somalia                      |2021-02-28|1,102     |
+|Africa   |Somalia                      |2021-02-28|1,102     |
+|Africa   |Gambia                       |2021-08-01|963       |
+|Africa   |Gambia                       |2021-08-01|963       |
+|Africa   |Sao Tome and Principe        |2022-01-09|832       |
+|Africa   |Sao Tome and Principe        |2022-01-09|832       |
+|Africa   |Sierra Leone                 |2021-06-27|604       |
+|Africa   |Sierra Leone                 |2021-06-27|604       |
+|Africa   |Chad                         |2021-12-05|596       |
+|Africa   |Chad                         |2021-12-05|596       |
+|Africa   |Eritrea                      |2022-01-16|573       |
+|Africa   |Eritrea                      |2022-01-16|573       |
+|Africa   |Niger                        |2022-01-09|523       |
+|Africa   |Niger                        |2022-01-09|523       |
+|Africa   |Guinea-Bissau                |2022-01-23|430       |
+|Africa   |Guinea-Bissau                |2022-01-23|430       |
+|Asia     |East Timor                   |2021-02-12|          |
+|Asia     |Hong Kong                    |2020-01-31|          |
+|Asia     |India                        |2024-08-05|          |
+|Asia     |Macao                        |2021-02-08|          |
+|Asia     |Malaysia                     |2024-08-05|          |
+|Asia     |Maldives                     |2020-03-29|          |
+|Asia     |Northern Cyprus              |2021-01-14|          |
+|Asia     |Philippines                  |2023-08-20|          |
+|Asia     |Taiwan                       |2020-01-16|          |
+|Asia     |Thailand                     |2020-01-04|          |
+|Asia     |East Timor                   |2021-02-12|          |
+|Asia     |Hong Kong                    |2020-01-31|          |
+|Asia     |India                        |2024-08-05|          |
+|Asia     |Macao                        |2021-02-08|          |
+|Asia     |Malaysia                     |2024-08-05|          |
+|Asia     |Maldives                     |2020-03-29|          |
+|Asia     |Northern Cyprus              |2021-01-14|          |
+|Asia     |Philippines                  |2023-08-20|          |
+|Asia     |Taiwan                       |2020-01-16|          |
+|Asia     |Thailand                     |2020-01-04|          |
+|Asia     |China                        |2022-12-25|40,475,477|
+|Asia     |China                        |2022-12-25|40,475,477|
+|Asia     |South Korea                  |2022-03-20|2,716,348 |
+|Asia     |South Korea                  |2022-03-20|2,716,348 |
+|Asia     |Vietnam                      |2022-03-20|1,845,400 |
+|Asia     |Vietnam                      |2022-03-20|1,845,400 |
+|Asia     |Japan                        |2022-08-07|1,496,968 |
+|Asia     |Japan                        |2022-08-07|1,496,968 |
+|Asia     |Turkey                       |2022-02-06|712,091   |
+|Asia     |Turkey                       |2022-02-06|712,091   |
+|Asia     |Israel                       |2022-01-23|494,733   |
+|Asia     |Israel                       |2022-01-23|494,733   |
+|Asia     |Indonesia                    |2022-02-20|389,727   |
+|Asia     |Indonesia                    |2022-02-20|389,727   |
+|Asia     |Iran                         |2021-08-15|269,975   |
+|Asia     |Iran                         |2021-08-15|269,975   |
+|Asia     |Georgia                      |2022-02-06|151,830   |
+|Asia     |Georgia                      |2022-02-06|151,830   |
+|Asia     |Jordan                       |2022-02-13|136,567   |
+|Asia     |Jordan                       |2022-02-13|136,567   |
+|Asia     |Singapore                    |2022-02-27|128,242   |
+|Asia     |Singapore                    |2022-02-27|128,242   |
+|Asia     |Bangladesh                   |2022-01-30|100,196   |
+|Asia     |Bangladesh                   |2022-01-30|100,196   |
+|Asia     |Kazakhstan                   |2022-01-23|97,258    |
+|Asia     |Kazakhstan                   |2022-01-23|97,258    |
+|Asia     |Iraq                         |2021-08-01|83,098    |
+|Asia     |Iraq                         |2021-08-01|83,098    |
+|Asia     |Nepal                        |2021-05-16|60,353    |
+|Asia     |Nepal                        |2021-05-16|60,353    |
+|Asia     |Palestine                    |2022-02-06|58,046    |
+|Asia     |Palestine                    |2022-02-06|58,046    |
+|Asia     |Lebanon                      |2022-02-06|57,803    |
+|Asia     |Lebanon                      |2022-02-06|57,803    |
+|Asia     |Mongolia                     |2021-10-31|53,797    |
+|Asia     |Mongolia                     |2021-10-31|53,797    |
+|Asia     |Bahrain                      |2022-02-06|51,350    |
+|Asia     |Bahrain                      |2022-02-06|51,350    |
+|Asia     |Pakistan                     |2022-01-30|49,994    |
+|Asia         |Pakistan                     |2022-01-30|49,994    |
+|Asia         |Azerbaijan                   |2022-02-13|47,148    |
+|Asia         |Azerbaijan                   |2022-02-13|47,148    |
+|Asia         |Sri Lanka                    |2021-08-29|41,519    |
+|Asia         |Sri Lanka                    |2021-08-29|41,519    |
+|Asia         |Kuwait                       |2022-01-30|40,955    |
+|Asia         |Kuwait                       |2022-01-30|40,955    |
+|Asia         |Myanmar                      |2021-07-25|40,004    |
+|Asia         |Myanmar                      |2021-07-25|40,004    |
+|Asia         |Saudi Arabia                 |2022-01-23|37,866    |
+|Asia         |Saudi Arabia                 |2022-01-23|37,866    |
+|Asia         |Brunei                       |2022-03-06|29,402    |
+|Asia         |Brunei                       |2022-03-06|29,402    |
+|Asia         |Qatar                        |2022-01-16|28,259    |
+|Asia         |Qatar                        |2022-01-16|28,259    |
+|Asia         |United Arab Emirates         |2021-01-31|26,285    |
+|Asia         |United Arab Emirates         |2021-01-31|26,285    |
+|Asia         |Armenia                      |2022-02-06|23,524    |
+|Asia         |Armenia                      |2022-02-06|23,524    |
+|Asia         |Laos                         |2022-04-03|15,567    |
+|Asia         |Laos                         |2022-04-03|15,567    |
+|Asia         |Oman                         |2022-02-06|14,960    |
+|Asia         |Oman                         |2022-02-06|14,960    |
+|Asia         |Afghanistan                  |2021-06-27|12,314    |
+|Asia         |Afghanistan                  |2021-06-27|12,314    |
+|Asia         |Bhutan                       |2022-04-10|10,785    |
+|Asia         |Bhutan                       |2022-04-10|10,785    |
+|Asia         |Kyrgyzstan                   |2021-07-04|10,124    |
+|Asia         |Kyrgyzstan                   |2021-07-04|10,124    |
+|Asia         |Uzbekistan                   |2022-01-23|8,941     |
+|Asia         |Uzbekistan                   |2022-01-23|8,941     |
+|Asia         |Cambodia                     |2021-07-11|6,668     |
+|Asia         |Cambodia                     |2021-07-11|6,668     |
+|Asia         |Syria                        |2021-10-24|2,517     |
+|Asia         |Syria                        |2021-10-24|2,517     |
+|Asia         |Tajikistan                   |2020-05-24|1,416     |
+|Asia         |Tajikistan                   |2020-05-24|1,416     |
+|Asia         |Yemen                        |2021-04-04|728       |
+|Asia         |Yemen                        |2021-04-04|728       |
+|Asia         |North Korea                  |2020-01-05|0         |
+|Asia         |Turkmenistan                 |2020-01-05|0         |
+|Asia         |North Korea                  |2020-01-05|0         |
+|Asia         |Turkmenistan                 |2020-01-05|0         |
+|Europe       |Czechia                      |2024-08-05|          |
+|Europe       |England                      |2020-03-20|          |
+|Europe       |Estonia                      |2024-08-05|          |
+|Europe       |Faroe Islands                |2021-01-29|          |
+|Europe       |France                       |2023-07-02|          |
+|Europe       |Germany                      |2023-07-10|          |
+|Europe       |Italy                        |2024-08-05|          |
+|Europe       |Lithuania                    |2024-08-05|          |
+|Europe       |Northern Ireland             |2020-03-10|          |
+|Europe       |Scotland                     |2020-03-07|          |
+|Europe       |Spain                        |2023-07-10|          |
+|Europe       |Wales                        |2020-04-01|          |
+|Europe       |Czechia                      |2024-08-05|          |
+|Europe       |England                      |2020-03-20|          |
+|Europe       |Estonia                      |2024-08-05|          |
+|Europe       |Faroe Islands                |2021-01-29|          |
+|Europe       |France                       |2023-07-02|          |
+|Europe       |Germany                      |2023-07-10|          |
+|Europe       |Italy                        |2024-08-05|          |
+|Europe       |Lithuania                    |2024-08-05|          |
+|Europe       |Northern Ireland             |2020-03-10|          |
+|Europe       |Scotland                     |2020-03-07|          |
+|Europe       |Spain                        |2023-07-10|          |
+|Europe       |Wales                        |2020-04-01|          |
+|Europe       |Russia                       |2022-02-13|1,323,391 |
+|Europe       |Russia                       |2022-02-13|1,323,391 |
+|Europe       |United Kingdom               |2022-01-09|1,320,332 |
+|Europe       |United Kingdom               |2022-01-09|1,320,332 |
+|Europe       |Netherlands                  |2022-02-06|626,302   |
+|Europe       |Netherlands                  |2022-02-06|626,302   |
+|Europe       |Portugal                     |2022-01-30|405,306   |
+|Europe       |Portugal                     |2022-01-30|405,306   |
+|Europe       |Belgium                      |2022-01-30|336,348   |
+|Europe       |Belgium                      |2022-01-30|336,348   |
+|Europe       |Poland                       |2022-01-30|334,382   |
+|Europe       |Poland                       |2022-01-30|334,382   |
+|Europe       |Denmark                      |2022-02-13|322,546   |
+|Europe       |Denmark                      |2022-02-13|322,546   |
+|Europe       |Austria                      |2022-03-20|319,108   |
+|Europe       |Austria                      |2022-03-20|319,108   |
+|Europe       |Sweden                       |2022-01-30|281,038   |
+|Europe       |Sweden                       |2022-01-30|281,038   |
+|Europe       |Switzerland                  |2022-01-30|248,789   |
+|Europe       |Switzerland                  |2022-01-30|248,789   |
+|Europe       |Ukraine                      |2022-02-06|242,942   |
+|Europe       |Ukraine                      |2022-02-06|242,942   |
+|Europe       |Greece                       |2022-01-09|241,321   |
+|Europe       |Greece                       |2022-01-09|241,321   |
+|Europe       |Romania                      |2022-02-06|208,987   |
+|Europe       |Romania                      |2022-02-06|208,987   |
+|Europe       |Ireland                      |2022-01-16|147,583   |
+|Europe       |Ireland                      |2022-01-16|147,583   |
+|Europe       |Norway                       |2022-02-13|141,784   |
+|Europe       |Norway                       |2022-02-13|141,784   |
+|Europe       |Slovakia                     |2022-02-13|124,066   |
+|Europe       |Slovakia                     |2022-02-13|124,066   |
+|Europe       |Serbia                       |2022-01-30|116,552   |
+|Europe       |Serbia                       |2022-01-30|116,552   |
+|Europe       |Hungary                      |2022-02-06|108,488   |
+|Europe       |Hungary                      |2022-02-06|108,488   |
+|Europe       |Slovenia                     |2022-01-30|98,826    |
+|Europe       |Slovenia                     |2022-01-30|98,826    |
+|Europe       |Latvia                       |2022-02-13|68,517    |
+|Europe       |Latvia                       |2022-02-13|68,517    |
+|Europe       |Bulgaria                     |2022-01-30|61,831    |
+|Europe       |Bulgaria                     |2022-01-30|61,831    |
+|Europe       |Finland                      |2022-01-02|61,448    |
+|Europe       |Finland                      |2022-01-02|61,448    |
+|Europe       |Croatia                      |2022-01-30|59,537    |
+|Europe       |Croatia                      |2022-01-30|59,537    |
+|Europe       |Belarus                      |2022-02-13|53,969    |
+|Europe       |Belarus                      |2022-02-13|53,969    |
+|Europe       |Cyprus                       |2022-03-27|31,886    |
+|Europe       |Cyprus                       |2022-03-27|31,886    |
+|Europe       |Moldova                      |2022-01-30|31,246    |
+|Europe       |Moldova                      |2022-01-30|31,246    |
+|Europe       |Kosovo                       |2022-01-30|23,466    |
+|Europe       |Kosovo                       |2022-01-30|23,466    |
+|Europe       |Iceland                      |2022-03-13|19,640    |
+|Europe       |Iceland                      |2022-03-13|19,640    |
+|Europe       |Luxembourg                   |2022-01-23|18,413    |
+|Europe       |Luxembourg                   |2022-01-23|18,413    |
+|Europe       |Bosnia and Herzegovina       |2022-01-23|17,250    |
+|Europe       |Bosnia and Herzegovina       |2022-01-23|17,250    |
+|Europe       |Montenegro                   |2022-01-09|17,071    |
+|Europe       |Montenegro                   |2022-01-09|17,071    |
+|Europe       |Albania                      |2022-01-23|15,405    |
+|Europe       |Albania                      |2022-01-23|15,405    |
+|Europe       |North Macedonia              |2022-01-30|11,881    |
+|Europe       |North Macedonia              |2022-01-30|11,881    |
+|Europe       |Malta                        |2022-01-02|8,118     |
+|Europe       |Malta                        |2022-01-02|8,118     |
+|Europe       |Jersey                       |2022-01-09|3,535     |
+|Europe       |Jersey                       |2022-01-09|3,535     |
+|Europe       |Andorra                      |2022-01-16|3,480     |
+|Europe       |Andorra                      |2022-01-16|3,480     |
+|Europe       |Guernsey                     |2022-03-27|2,936     |
+|Europe       |Guernsey                     |2022-03-27|2,936     |
+|Europe       |Isle of Man                  |2022-07-03|2,642     |
+|Europe       |Isle of Man                  |2022-07-03|2,642     |
+|Europe       |San Marino                   |2022-01-09|1,189     |
+|Europe       |San Marino                   |2022-01-09|1,189     |
+|Europe       |Liechtenstein                |2022-03-20|1,149     |
+|Europe       |Liechtenstein                |2022-03-20|1,149     |
+|Europe       |Gibraltar                    |2022-01-30|1,050     |
+|Europe       |Gibraltar                    |2022-01-30|1,050     |
+|Europe       |Monaco                       |2022-01-23|949       |
+|Europe       |Monaco                       |2022-01-23|949       |
+|Europe       |Vatican                      |2020-10-18|14        |
+|Europe       |Vatican                      |2020-10-18|14        |
+|North America|Belize                       |2022-04-10|          |
+|North America|Guatemala                    |2020-04-05|          |
+|North America|Mexico                       |2020-01-01|          |
+|North America|Sint Maarten (Dutch part)    |2020-06-07|          |
+|North America|United States                |2023-05-21|          |
+|North America|United States Virgin Islands |2020-10-11|          |
+|North America|Belize                       |2022-04-10|          |
+|North America|Guatemala                    |2020-04-05|          |
+|North America|Mexico                       |2020-01-01|          |
+|North America|Sint Maarten (Dutch part)    |2020-06-07|          |
+|North America|United States                |2023-05-21|          |
+|North America|United States Virgin Islands |2020-10-11|          |
+|North America|Canada                       |2022-01-09|293,833   |
+|North America|Canada                       |2022-01-09|293,833   |
+|North America|Puerto Rico                  |2022-01-02|72,566    |
+|North America|Puerto Rico                  |2022-01-02|72,566    |
+|North America|Panama                       |2022-01-23|68,214    |
+|North America|Panama                       |2022-01-23|68,214    |
+|North America|Cuba                         |2021-08-22|64,719    |
+|North America|Cuba                         |2021-08-22|64,719    |
+|North America|Dominican Republic           |2022-01-16|43,410    |
+|North America|Dominican Republic           |2022-01-16|43,410    |
+|North America|Costa Rica                   |2022-02-06|39,491    |
+|North America|Costa Rica                   |2022-02-06|39,491    |
+|North America|Guadeloupe                   |2022-01-23|17,089    |
+|North America|Guadeloupe                   |2022-01-23|17,089    |
+|North America|Martinique                   |2022-03-13|13,686    |
+|North America|Martinique                   |2022-03-13|13,686    |
+|North America|El Salvador                  |2022-02-20|12,677    |
+|North America|El Salvador                  |2022-02-20|12,677    |
+|North America|Honduras                     |2021-08-22|10,595    |
+|North America|Honduras                     |2021-08-22|10,595    |
+|North America|Jamaica                      |2022-01-16|9,194     |
+|North America|Jamaica                      |2022-01-16|9,194     |
+|North America|Trinidad and Tobago          |2022-01-23|6,189     |
+|North America|Trinidad and Tobago          |2022-01-23|6,189     |
+|North America|Curacao                      |2022-01-16|5,941     |
+|North America|Curacao                      |2022-01-16|5,941     |
+|North America|Aruba                        |2022-01-09|5,535     |
+|North America|Aruba                        |2022-01-09|5,535     |
+|North America|Barbados                     |2022-02-06|4,273     |
+|North America|Barbados                     |2022-02-06|4,273     |
+|North America|Bahamas                      |2022-01-16|3,132     |
+|North America|Bahamas                      |2022-01-16|3,132     |
+|North America|Greenland                    |2022-01-16|3,047     |
+|North America|Greenland                    |2022-01-16|3,047     |
+|North America|Saint Lucia                  |2022-01-16|2,315     |
+|North America|Saint Lucia                     |2022-01-16|2,315     |
+|North America|Saint Martin (French part)      |2022-01-16|2,295     |
+|North America|Saint Martin (French part)      |2022-01-16|2,295     |
+|North America|Cayman Islands                  |2022-02-06|2,146     |
+|North America|Cayman Islands                  |2022-02-06|2,146     |
+|North America|Grenada                         |2022-01-16|1,866     |
+|North America|Grenada                         |2022-01-16|1,866     |
+|North America|Bermuda                         |2022-01-16|1,350     |
+|North America|Bermuda                         |2022-01-16|1,350     |
+|North America|Haiti                           |2020-06-07|1,340     |
+|North America|Haiti                           |2020-06-07|1,340     |
+|North America|Turks and Caicos Islands        |2022-01-16|1,076     |
+|North America|Turks and Caicos Islands        |2022-01-16|1,076     |
+|North America|British Virgin Islands          |2022-01-16|1,048     |
+|North America|British Virgin Islands          |2022-01-16|1,048     |
+|North America|Bonaire Sint Eustatius and Saba |2022-01-16|1,041     |
+|North America|Bonaire Sint Eustatius and Saba |2022-01-16|1,041     |
+|North America|Saint Kitts and Nevis           |2022-01-09|1,013     |
+|North America|Saint Kitts and Nevis           |2022-01-09|1,013     |
+|North America|Dominica                        |2022-02-06|968       |
+|North America|Dominica                        |2022-02-06|968       |
+|North America|Saint Vincent and the Grenadines|2022-01-09|760       |
+|North America|Saint Vincent and the Grenadines|2022-01-09|760       |
+|North America|Antigua and Barbuda             |2022-01-30|627       |
+|North America|Antigua and Barbuda             |2022-01-30|627       |
+|North America|Nicaragua                       |2020-05-31|606       |
+|North America|Nicaragua                       |2020-05-31|606       |
+|North America|Saint Pierre and Miquelon       |2022-03-27|577       |
+|North America|Saint Pierre and Miquelon       |2022-03-27|577       |
+|North America|Saint Barthelemy                |2022-01-16|502       |
+|North America|Saint Barthelemy                |2022-01-16|502       |
+|North America|Montserrat                      |2022-05-15|295       |
+|North America|Montserrat                      |2022-05-15|295       |
+|North America|Anguilla                        |2022-01-16|263       |
+|North America|Anguilla                        |2022-01-16|263       |
+|Oceania      |Fiji                            |2023-10-15|          |
+|Oceania      |Micronesia (country)            |2024-06-02|          |
+|Oceania      |New Zealand                     |2024-08-05|          |
+|Oceania      |Palau                           |2023-06-11|          |
+|Oceania      |Samoa                           |2023-06-04|          |
+|Oceania      |Fiji                            |2023-10-15|          |
+|Oceania      |Micronesia (country)            |2024-06-02|          |
+|Oceania      |New Zealand                     |2024-08-05|          |
+|Oceania      |Palau                           |2023-06-11|          |
+|Oceania      |Samoa                           |2023-06-04|          |
+|Oceania      |Australia                       |2022-01-09|588,813   |
+|Oceania      |Australia                       |2022-01-09|588,813   |
+|Oceania      |New Caledonia                   |2022-02-13|9,263     |
+|Oceania      |New Caledonia                   |2022-02-13|9,263     |
+|Oceania      |Marshall Islands                |2022-08-21|9,086     |
+|Oceania      |Marshall Islands                |2022-08-21|9,086     |
+|Oceania      |French Polynesia                |2021-08-22|8,042     |
+|Oceania      |French Polynesia                |2021-08-22|8,042     |
+|Oceania      |Guam                            |2022-02-13|5,903     |
+|Oceania      |Guam                            |2022-02-13|5,903     |
+|Oceania      |Solomon Islands                 |2023-10-08|4,343     |
+|Oceania      |Solomon Islands                 |2023-10-08|4,343     |
+|Oceania      |Papua New Guinea                |2021-10-24|3,038     |
+|Oceania      |Papua New Guinea                |2021-10-24|3,038     |
+|Oceania      |Wallis and Futuna               |2022-10-16|2,654     |
+|Oceania      |Wallis and Futuna               |2022-10-16|2,654     |
+|Oceania      |Tonga                           |2022-03-27|2,173     |
+|Oceania      |Tonga                           |2022-03-27|2,173     |
+|Oceania      |Nauru                           |2022-06-26|2,055     |
+|Oceania      |Nauru                           |2022-06-26|2,055     |
+|Oceania      |American Samoa                  |2022-03-27|1,881     |
+|Oceania      |American Samoa                  |2022-03-27|1,881     |
+|Oceania      |Vanuatu                         |2022-03-27|1,591     |
+|Oceania      |Vanuatu                         |2022-03-27|1,591     |
+|Oceania      |Kiribati                        |2023-01-15|1,491     |
+|Oceania      |Kiribati                        |2023-01-15|1,491     |
+|Oceania      |Northern Mariana Islands        |2022-02-13|1,428     |
+|Oceania      |Northern Mariana Islands        |2022-02-13|1,428     |
+|Oceania      |Tuvalu                          |2022-11-13|1,096     |
+|Oceania      |Tuvalu                          |2022-11-13|1,096     |
+|Oceania      |Cook Islands                    |2022-04-24|1,039     |
+|Oceania      |Cook Islands                    |2022-04-24|1,039     |
+|Oceania      |Niue                            |2023-01-08|155       |
+|Oceania      |Niue                            |2023-01-08|155       |
+|Oceania      |Tokelau                         |2023-07-16|39        |
+|Oceania      |Tokelau                         |2023-07-16|39        |
+|Oceania      |Pitcairn                        |2022-07-24|4         |
+|Oceania      |Pitcairn                        |2022-07-24|4         |
+|South America|Argentina                       |2020-01-01|          |
+|South America|Ecuador                         |2020-09-13|          |
+|South America|Argentina                       |2020-01-01|          |
+|South America|Ecuador                         |2020-09-13|          |
+|South America|Brazil                          |2022-01-30|1,283,024 |
+|South America|Brazil                          |2022-01-30|1,283,024 |
+|South America|Peru                            |2022-01-23|326,730   |
+|South America|Peru                            |2022-01-23|326,730   |
+|South America|Chile                           |2022-02-13|247,900   |
+|South America|Chile                           |2022-02-13|247,900   |
+|South America|Colombia                        |2022-01-23|210,161   |
+|South America|Colombia                        |2022-01-23|210,161   |
+|South America|Bolivia                         |2022-01-23|79,218    |
+|South America|Bolivia                         |2022-01-23|79,218    |
+|South America|Uruguay                         |2022-01-23|78,411    |
+|South America|Uruguay                         |2022-01-23|78,411    |
+|South America|Paraguay                        |2022-01-30|36,690    |
+|South America|Paraguay                        |2022-01-30|36,690    |
+|South America|Venezuela                       |2022-02-06|13,667    |
+|South America|Venezuela                       |2022-02-06|13,667    |
+|South America|French Guiana                   |2022-01-16|11,295    |
+|South America|French Guiana                   |2022-01-16|11,295    |
+|South America|Guyana                          |2022-01-23|6,572     |
+|South America|Guyana                          |2022-01-23|6,572     |
+|South America|Suriname                        |2022-01-23|6,541     |
+|South America|Suriname                        |2022-01-23|6,541     |
+|South America|Falkland Islands                |2022-05-15|734       |
+|South America|Falkland Islands                |2022-05-15|734       |
