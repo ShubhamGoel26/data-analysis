@@ -76,5 +76,3 @@ This project showcases proficiency in:
 - Add time-series forecasting for case trends.
 - Incorporate additional datasets for deeper analysis (e.g., vaccination data).
 - Enhance the Tableau story with more narrative points.
-
-For questions or feedback, contact [Your Name] at [Your Email] or via [LinkedIn](your-linkedin-link).
